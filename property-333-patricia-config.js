@@ -3,7 +3,7 @@ window.PROPERTY_DATA = {
   "slug": "333-patricia-avenue",
   "address": "333 Patricia Avenue",
   "cityStateZip": "Weirton, WV",
-  "price": "Contact for Price",
+  "price": "$139,900",
   "mls": "Contact Dante",
   "page": "333-patricia-avenue.html",
   "assetBase": "assets/333-patricia-avenue",
