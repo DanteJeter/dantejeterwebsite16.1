@@ -1,0 +1,30 @@
+window.PROPERTY_DATA = {
+  "version": "16.1",
+  "slug": "333-patricia-avenue",
+  "address": "333 Patricia Avenue",
+  "cityStateZip": "Weirton, WV",
+  "price": "Contact for Price",
+  "mls": "Contact Dante",
+  "page": "333-patricia-avenue.html",
+  "assetBase": "assets/333-patricia-avenue",
+  "hero": "hero.jpg",
+  "photos": [
+    { "file": "photo-01.jpg", "alt": "Front exterior of 333 Patricia Avenue" },
+    { "file": "photo-02.jpg", "alt": "Front exterior angle showing the attached and detached garages" },
+    { "file": "photo-03.jpg", "alt": "Distinctive covered front entry" },
+    { "file": "photo-04.jpg", "alt": "Living room with hardwood floors and a large front window" },
+    { "file": "photo-05.jpg", "alt": "Living room alternate view with hardwood floors" },
+    { "file": "photo-06.jpg", "alt": "Dining room with hardwood flooring" },
+    { "file": "photo-07.jpg", "alt": "Dining area with views into the kitchen and living room" },
+    { "file": "photo-08.jpg", "alt": "Kitchen with abundant wood cabinetry" },
+    { "file": "photo-09.jpg", "alt": "Upper hallway and split-level entry" },
+    { "file": "photo-10.jpg", "alt": "Full bathroom with glass shower enclosure" },
+    { "file": "photo-11.jpg", "alt": "Bedroom with double closet and ceiling fan" },
+    { "file": "photo-12.jpg", "alt": "Bedroom with blue carpet and double closet" },
+    { "file": "photo-13.jpg", "alt": "Lower-level recreation room" },
+    { "file": "photo-14.jpg", "alt": "Rear and side exterior with driveway access" },
+    { "file": "photo-15.jpg", "alt": "Large rear deck overlooking the yard" },
+    { "file": "photo-16.jpg", "alt": "Spacious detached garage exterior" },
+    { "file": "photo-17.jpg", "alt": "Front exterior at dusk" }
+  ]
+};
